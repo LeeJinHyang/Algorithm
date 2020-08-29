@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class ³ª¸ÓÁö_10430 {
+public class ë‚˜ë¨¸ì§€_10430 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//1.  (A+B)%C
-		//2. ((A%C) + (B%C))%C = (A+B)%C%C = 1¹ø %C
-		//3.  (A¡¿B)%C
-		//4. ((A%C) ¡¿ (B%C))%C = (A x B) %C %C = 3¹ø %C
+		//2. ((A%C) + (B%C))%C = (A+B)%C%C = 1ï¿½ï¿½ %C
+		//3.  (Aï¿½ï¿½B)%C
+		//4. ((A%C) ï¿½ï¿½ (B%C))%C = (A x B) %C %C = 3ï¿½ï¿½ %C
 		Scanner sc = new Scanner(System.in);
 		
 		int[] arr = new int[3];
