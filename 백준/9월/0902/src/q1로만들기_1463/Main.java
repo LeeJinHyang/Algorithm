@@ -11,7 +11,8 @@ public class Main {
 		int N = sc.nextInt();
 		int[] dp = new int[1000001];
 		Arrays.fill(dp, 1000001);
-		for(int i = N; i >= 1; i --) {
+		dp[N] = 0;
+		for(int i = N; i > 1; i --) {
 			if(i % 3 ==0) {
 				if(dp[i/3]+1 > dp[i]+1) dp[i/3] = dp[i]+1;
 			}
