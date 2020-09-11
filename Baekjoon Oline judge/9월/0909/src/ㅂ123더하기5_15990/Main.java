@@ -8,8 +8,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
-		int max = 1000000009;
-		int[][] dp = new int[100001][4];
+		long max = 1000000009;
+		long[][] dp = new long[100001][4];
 		dp[1][1] = 1;
 		
 		dp[2][0] = 0;
