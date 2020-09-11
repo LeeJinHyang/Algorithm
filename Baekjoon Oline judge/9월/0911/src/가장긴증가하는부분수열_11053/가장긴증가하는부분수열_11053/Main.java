@@ -1,4 +1,4 @@
-package °¡Àå±äÁõ°¡ÇÏ´ÂºÎºĞ¼ö¿­_11053;
+package ê°€ì¥ê¸´ì¦ê°€í•˜ëŠ”ë¶€ë¶„ìˆ˜ì—´_11053;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -14,17 +14,17 @@ public class Main {
 			arr[i] = sc.nextInt();
 		}
 		int[] dp = new int[N+1];
-		dp[0] = 1;
+		Arrays.fill(dp, 1);
 		for(int i = 0; i < N; i++) {
-			dp[i] = 1;
 			for(int j = 0; j <i ; j++) {
 				if(arr[i] > arr[j]) {
 					dp[i] = Math.max(dp[i],dp[j]+1 );
 				}
 			}
 		}
-		Arrays.sort(dp);
-		for(int i = 0; i < N; i++) System.out.println(dp[i]);
+		int max = 0;
+		for(int i = 0; i < N; i++) max = Math.max(max, dp[i]);
+		System.out.println(max);
 	}
 
 }
