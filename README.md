@@ -4,7 +4,9 @@
 
 - [ ] Math 클래스 함수 정리
 - [ ] StringBuilder 함수 정리
-- [ ] 
+- [ ] [백준 기초 문제](https://www.acmicpc.net/workbook/view/2196)
+- [ ] [백준 진짜 쉬운 문제](https://www.acmicpc.net/workbook/view/1)
+- [ ] https://www.acmicpc.net/category/17
 
 
 
@@ -61,3 +63,11 @@ https://www.acmicpc.net/workbook/codeplus
 [크루스칼](https://github.com/LeeJinHyang/Algorithm/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC)
 
 [표기식](https://github.com/LeeJinHyang/Algorithm/tree/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%91%9C%EA%B8%B0%EC%8B%9D)
+
+
+
+
+
+
+
+![image-20200914010748927](C:\Users\JINHYANG\AppData\Roaming\Typora\typora-user-images\image-20200914010748927.png)
