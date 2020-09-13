@@ -1,5 +1,11 @@
 # Algorithm
 
+## TODO
+
+- [ ] Math 클래스 함수 정리
+- [ ] StringBuilder 함수 정리
+- [ ] 
+
 
 
 ## [Baekjoon Oline judge](https://www.acmicpc.net/)
