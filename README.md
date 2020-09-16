@@ -4,10 +4,14 @@
 
 - [ ] Math 클래스 함수 정리
 - [ ] StringBuilder 함수 정리
+- [ ] String 함수 정리
 - [ ] LinkedList 함수 정리
+- [ ] Hash함수 정리
 - [ ] [백준 기초 문제](https://www.acmicpc.net/workbook/view/2196)
 - [ ] [백준 진짜 쉬운 문제](https://www.acmicpc.net/workbook/view/1)
 - [ ] https://www.acmicpc.net/category/17
+- [ ] 9.16 ~ 9.21 프로그래머스 1단계
+- [ ] 9.22 ~ 9.26 프로그래머스 2단계
 
 
 
