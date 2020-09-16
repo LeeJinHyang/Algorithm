@@ -51,6 +51,8 @@ TreeMap : HashMap에 비해 저장이 빠르지만 데이터를 가져올 때 �
 
 - **Object clone()** : 현재 HashMap을 반환한다
 
+- **getOrDefault(key, defaultValue)** : map에서 찾는 Key가 없다면 defaultValue를 리턴함
+
   
 
 
