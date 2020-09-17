@@ -1,4 +1,4 @@
-package ��ƼĿ_9465;
+package 스티커_9465;
 
 import java.util.Scanner;
 

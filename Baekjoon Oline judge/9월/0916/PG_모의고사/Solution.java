@@ -1,3 +1,4 @@
+package PG_모의고사;
 import java.util.*;
 class Solution {
     public int[] solution(int[] answers) {

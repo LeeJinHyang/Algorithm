@@ -1,3 +1,4 @@
+package PG_K번쨰수;
 import java.util.*;
 
 

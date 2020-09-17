@@ -42,3 +42,7 @@
 - toLowerCase() : 모두 소문자로
 
 - trim() : 문자열의 앞, 뒤 공백 제거(한쪽만은 불가능) 
+
+- str.startWith(a); : 특정 문자로 시작하는지 판단
+
+- str.endWith(a); : 특정 문자로 끝나는지 판단
