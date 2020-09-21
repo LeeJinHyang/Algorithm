@@ -1,0 +1,1 @@
+![프로그래머스_프린터.jpg](https://github.com/LeeJinHyang/Algorithm/blob/master/DAILY/9%EC%9B%94/0921/src/PG_%ED%94%84%EB%A6%B0%ED%84%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%94%84%EB%A6%B0%ED%84%B0.jpg?raw=true)
