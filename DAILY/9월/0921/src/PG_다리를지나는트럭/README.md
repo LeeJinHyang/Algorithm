@@ -1,0 +1,3 @@
+![PG_다리를지나는트럭1.jpg](https://github.com/LeeJinHyang/Algorithm/blob/master/DAILY/9%EC%9B%94/0921/src/PG_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD/PG_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD1.jpg?raw=true)
+
+![PG_다리를지나는트럭2.jpg](https://github.com/LeeJinHyang/Algorithm/blob/master/DAILY/9%EC%9B%94/0921/src/PG_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD/PG_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD2.jpg?raw=true)
