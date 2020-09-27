@@ -1,6 +1,3 @@
-![백준-11](/Users/jh/Downloads/백준-11.jpg)
+<img src="./img/백준-11.jpg">
 
-
-
-![백준-12](/Users/jh/Downloads/백준-12.jpg)
-
+<img src="./img/백준-12.jpg">
