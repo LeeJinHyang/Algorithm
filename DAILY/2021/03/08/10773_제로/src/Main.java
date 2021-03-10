@@ -21,7 +21,6 @@ public static void main(String[]args){
 for(int i = 0; i < top; i++){
         result+= array[i];
 }
-
         System.out.println(result);
         }
 
