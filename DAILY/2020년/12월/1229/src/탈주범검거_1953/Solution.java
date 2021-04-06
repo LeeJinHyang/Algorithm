@@ -19,11 +19,14 @@ public class Solution {
 	static int result;
 	static int[] rd = {-1,1,0,0};
 	static int[] cd = {0,0,-1,1};
-	static HashMap<String, Integer[]> hashmap;
+	static LinkedList<Integer[]> list;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		hashmap = new HashMap<>();
-		hashmap.put("1", {0,1,2,3});
+		LinkedList<Integer[]> list = new LinkedList();
+		Integer[] arr = {0,1,2,3};
+		list.add(arr);
+		arr = {0,1};
+		list.add(arr);
 		
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
