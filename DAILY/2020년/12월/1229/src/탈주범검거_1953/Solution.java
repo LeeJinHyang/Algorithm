@@ -19,6 +19,13 @@ public class Solution {
 	static int result;
 	static int[] rd = {-1,1,0,0};
 	static int[] cd = {0,0,-1,1};
+<<<<<<< HEAD
+	static HashMap<String, Integer[]> hashmap;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		hashmap = new HashMap<>();
+		hashmap.put("1", {0,1,2,3});
+=======
 	static LinkedList<Integer[]> list;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -27,6 +34,7 @@ public class Solution {
 		list.add(arr);
 		arr = {0,1};
 		list.add(arr);
+>>>>>>> a3c79369cb237055f5f743ba83350696994de382
 		
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
