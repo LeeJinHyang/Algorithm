@@ -9,7 +9,7 @@ public class Solution {
         int[][] map = new int[n+1][n+1];
         for(int i = 1; i < n+1; i++){
             for(int j = 1; j < n+1; j++){
-                map[i][j] = 100000;
+                map[i][j] = 20000001; //이 부분을 정확히 해주지 않으면 오류 발생 200 * 100000 + 1
             }
             map[i][i] = 0;
         }
