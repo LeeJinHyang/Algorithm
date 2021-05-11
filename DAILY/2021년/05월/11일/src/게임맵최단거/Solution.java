@@ -43,10 +43,10 @@ class Solution {
         map = maps.clone();
         visited = new boolean[maps.length][maps[0].length];
         target = new int[2];
-        target[0] = 4;
-        target[1] = 4;
+        target[0] = maps.length-1;
+        target[1] = maps[0].length -1;
 
-        bfs(new Point(0,0,0));
+        bfs(new Point(0,0,1));
         if(answer == maps.length * maps[0].length+1){
             answer = -1;
         }
