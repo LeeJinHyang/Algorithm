@@ -21,6 +21,7 @@ class Solution {
         que.add(point);
         while(!que.isEmpty()){
             Point pre = que.poll();
+            if(pre.cnt > answer) continue;
             if(pre.x == target[0] && pre.y == target[1]){
                 answer = Math.min(pre.cnt, answer);
                 return;
