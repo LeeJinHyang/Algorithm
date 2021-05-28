@@ -23,12 +23,6 @@
 ## TODO(Python)
 
 
-
-=======
->>>>>>> 60998c7fa59ef07028f1f44e61a25baacb55a8b0
-
-  
-
 ## [Baekjoon Oline judge](https://www.acmicpc.net/)
 
 ### Description
