@@ -25,8 +25,6 @@
 
 
 
-
-
 ## [Baekjoon Oline judge](https://www.acmicpc.net/)
 
 ### Description
