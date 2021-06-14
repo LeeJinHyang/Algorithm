@@ -19,6 +19,6 @@ public class Solution {
         for(int i = 0; i < N; i++){
             parent[i] = i;
         }
-        
+
     }
 }
