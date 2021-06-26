@@ -1,3 +1,5 @@
+package ㄹ1로나누기ㅣ;
+
 import java.util.Scanner;
 
 public class Main {
